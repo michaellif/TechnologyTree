@@ -1,4 +1,4 @@
-Skill Level/ Mental Function | Novice          | Intermediate | Competence  | Proficient  | Expert
+Skill Level/ Mental Function | Beginner        | Intermediate | Competent   | Proficient  | Expert
 Recollection                 | Non-Situational | Situational  | Situational | Situational | Situational
 Recognition                  | Decomposed      | Decomposed   | Holistic    | Holistic    | Holistic
 Decision                     | Analytical      | Analytical   | Analytical  | Intuitive   | Intuitive
