@@ -1,5 +1,5 @@
-Skill Level/ Mental Function | Novice           | Intermediate | Competence   | Proficient  | Expert
-Recollection                 | 	Non-Situational |	Situational  | 	Situational | Situational | Situational
-Recognition                  | 	Decomposed      |	Decomposed   | 	Holistic    | Holistic    | Holistic
-Decision                     | 	Analytical      |	Analytical   | 	Analytical  |	Intuitive   | Intuitive
-Awareness                    | 	Monitoring      |	Monitoring   | 	Monitoring  |	Monitoring  | Absorbed 
+Skill Level/ Mental Function | Novice          | Intermediate  | Competence   | Proficient  | Expert
+Recollection                 | Non-Situational |	Situational  | 	Situational | Situational | Situational
+Recognition                  | Decomposed      |	Decomposed   | 	Holistic    | Holistic    | Holistic
+Decision                     | Analytical      |	Analytical   | 	Analytical  |	Intuitive   | Intuitive
+Awareness                    | Monitoring      |	Monitoring   | 	Monitoring  |	Monitoring  | Absorbed 
