@@ -2,12 +2,12 @@
   "Microservices": {
     "Code": {
       "Java Platform": {
-        "Java": "ADOPT",
+        "Java": "EXPERT",
         "Kotlin Platform": {
-          "Kotlin": "ADOPT"
+          "Kotlin": "PROFICIENT"
         },
         "Spring Platform": {
-          "Spring":"ADOPT"
+          "Spring":"EXPERT"
         }
       }
     },
