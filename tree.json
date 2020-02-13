@@ -1,0 +1,25 @@
+{
+  "Microservices": {
+    "Code": {
+      "Java Platform": {
+        "Java": "ADOPT",
+        "Kotlin Platform": {
+          "Kotlin": "ADOPT"
+        },
+        "Spring Platform": {
+          "Spring":"ADOPT"
+        }
+      }
+    },
+    "Build": {
+    },
+    "Test": {
+    },
+    "Package": {
+    },
+    "Deploy": {
+    },
+    "Monitor": {
+    }
+  }
+}
