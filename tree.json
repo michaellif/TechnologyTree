@@ -1,25 +1,251 @@
 {
-  "Microservices": {
-    "Code": {
-      "Java Platform": {
-        "Java": "EXPERT",
-        "Kotlin Platform": {
-          "Kotlin": "PROFICIENT"
+  "name": "Microservices",
+  "children": [
+    {
+      "name": "Code",
+      "children": [
+        {
+          "name": "Java",
+          "children": [
+            {
+              "name": "Java",
+              "value": 2000
+            },
+            {
+              "name": "Spring",
+              "value": 2000
+            },
+            {
+              "name": "Kotlin",
+              "value": 2000
+            }
+          ]
         },
-        "Spring Platform": {
-          "Spring":"EXPERT"
+        {
+          "name": "Kotlin",
+          "value": 2000
+        },
+        {
+          "name": "JavaScript",
+          "children": [
+            {
+              "name": "TypeScript",
+              "value": 2000
+            },
+            {
+              "name": "Angular",
+              "value": 2000
+            },
+            {
+              "name": "React",
+              "value": 2000
+            },
+            {
+              "name": "Node.js",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "name": "Scala**",
+          "children": [
+            {
+              "name": "Akka**",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "name": "Python",
+          "children": [
+            {
+              "name": "Flask",
+              "value": 2000
+            },
+            {
+              "name": "pandas",
+              "value": 2000
+            }
+          ]
         }
-      }
+      ]
     },
-    "Build": {
+    {
+      "name": "DB",
+      "children": [
+        {
+          "name": "SQL",
+          "children": [
+            {
+              "name": "MySQL",
+              "value": 2000
+            },
+            {
+              "name": "Postgres",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "name": "No-SQL",
+          "children": [
+            {
+              "name": "MongoDB**",
+              "value": 2000
+            },
+            {
+              "name": "DynamoDB",
+              "value": 2000
+            }
+          ]
+        }
+      ]
     },
-    "Test": {
+    {
+      "name": "Storage",
+      "children": [
+        {
+          "name": "AWS S3",
+          "value": 2000
+        },
+        {
+          "name": "AWS Glacier",
+          "value": 2000
+        }
+      ]
     },
-    "Package": {
+    {
+      "name": "Stream",
+      "children": [
+        {
+          "name": "AWS Kinesis",
+          "value": 2000
+        },
+        {
+          "name": "Kafka",
+          "value": 2000
+        }
+      ]
     },
-    "Deploy": {
+    {
+      "name": "Build",
+      "children": [
+        {
+          "name": "Java",
+          "children": [
+            {
+              "name": "Maven**",
+              "value": 2000
+            },
+            {
+              "name": "Gradle",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "children": [
+            {
+              "name": "NPM",
+              "value": 2000
+            },
+            {
+              "name": "Yarn",
+              "value": 2000
+            },
+            {
+              "name": "Babel",
+              "value": 2000
+            },
+            {
+              "name": "Webpack",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "name": "python",
+          "children": [
+            {
+              "name": "PyBuilder",
+              "value": 2000
+            },
+            {
+              "name": "ninja",
+              "value": 2000
+            }
+          ]
+        }
+      ]
     },
-    "Monitor": {
+    {
+      "name": "Test",
+      "children": [
+        {
+          "name": "Cucumber",
+          "value": 2000
+        },
+        {
+          "name": "JMeter",
+          "value": 2000
+        },
+        {
+          "name": "Selenium",
+          "value": 2000
+        },
+        {
+          "name": "WireMock",
+          "value": 2000
+        },
+        {
+          "name": "mountebank",
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "name": "Package",
+      "children": [
+        {
+          "name": "Jenkins",
+          "value": 2000
+        },
+        {
+          "name": "Travis**",
+          "value": 2000
+        },
+        {
+          "name": "AWS CodeBuild^^",
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "name": "Deploy",
+      "children": [
+        {
+          "name": "AWS CloudFormation",
+          "value": 2000
+        },
+        {
+          "name": "Terraform",
+          "value": 2000
+        },
+        {
+          "name": "Chef",
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "name": "Monitor",
+      "children": [
+        {
+          "name": "AWS X-Ray",
+          "value": 2000
+        }
+      ]
     }
-  }
+  ]
 }
